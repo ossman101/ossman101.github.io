@@ -1,0 +1,113 @@
+body {
+    font-family: sans-serif, helvetica, arial;
+    line-height: 1.5;
+    font-size: 16px; 
+    text-align: center;
+    
+}
+
+header{
+   background-color: rgb(84, 153, 199);
+    border-bottom: rgb(231, 76, 60) 15px solid;
+    color:white;
+    min-height: 120px
+   
+}
+nav {
+    float: right;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    
+}
+header li {
+    display: inline;
+    padding-right: 40px;
+    padding-top: 50px;
+    font-family: Satisfy, cursive;
+    font-weight:normal;
+    font-size: 30px;
+    color: white;
+    list-style-type: none; 
+}
+header h1 {
+    float: left;
+    margin-top: 20px;
+    font-family: Satisfy, cursive;
+    font-weight:normal;
+    font-size:45px;
+    padding-top: 10px;
+    padding-left: 20px;
+    
+    
+}
+footer {
+    background-color: rgb(84, 153, 199);
+    color: white;
+    margin-top: 700px;
+    border-top: rgb(231, 76, 60) 3px solid;
+    
+}
+header a:hover{
+    color: rgb(231, 76, 60);
+    font-weight:Bold;
+}
+
+.highlight{
+    color: rgb(255, 213, 79);
+}
+
+footer li{
+   list-style: none; 
+   
+}
+
+header a{
+    color: white;
+}
+
+
+.showcase{
+    background-color: white;
+    min-height: 200px;
+}
+
+
+.showcase h1{
+     font-family: Satisfy, cursive;
+    font-weight:normal;
+    font-size:45px;
+    color:rgb(231, 76, 60);
+    
+}
+
+div.gallery {
+    margin: 15px;
+    
+    float: left;
+   
+}
+
+
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 25px;
+    text-align: center;
+}
+
+.indPic{
+    width:30%;
+    float:left;
+    margin-right: 20px;
+}
+
+
+
+#1:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
