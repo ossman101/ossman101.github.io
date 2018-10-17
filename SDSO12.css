@@ -126,3 +126,7 @@ div.desc {
     border-image:url(https://demo.tutorialzine.com/2013/10/css3-features-you-can-finally-use/assets/img/border.png) 30 30 round;
 }
   
+footer .foot {
+    margin-top: 500px;
+    padding:500px;
+}
